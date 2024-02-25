@@ -61,7 +61,9 @@ async function main() {
 
     fs.rm(path.join(projectPath, 'bin'), { recursive: true }, (error) => {
       if (error) {
-        ("Sorry but I couldn't take out the trash!! Something isn't working right!");
+        console.log(
+          "Sorry but I couldn't take out the trash!! Something isn't working right!"
+        );
       }
     });
 

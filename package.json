@@ -1,7 +1,7 @@
 {
   "name": "create-vrt",
   "private": false,
-  "version": "1.2.6",
+  "version": "1.2.7",
   "type": "module",
   "bin": {
     "create-vrt": "./bin/create-vrt.cjs"
