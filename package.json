@@ -1,0 +1,50 @@
+{
+  "name": "create-vrt",
+  "private": false,
+  "version": "1.2.4",
+  "type": "module",
+  "bin": {
+    "create-vrt": "./bin/create-vrt.cjs"
+  },
+  "scripts": {
+    "dev": "vite",
+    "build": "vite build",
+    "preview": "vite preview"
+  },
+  "dependencies": {
+    "@vitejs/plugin-react": "^4.0.4",
+    "prettier": "^3.0.1",
+    "react": "^18.2.0",
+    "react-dom": "^18.2.0",
+    "rimraf": "^5.0.1"
+  },
+  "devDependencies": {
+    "@types/react": "^18.0.17",
+    "@types/react-dom": "^18.0.6",
+    "autoprefixer": "^10.4.8",
+    "jsdom": "^23.0.0",
+    "postcss": "^8.4.16",
+    "tailwindcss": "^3.1.8",
+    "vite": "^4.4.9"
+  },
+  "description": "A package to get your React & Tailwind project set up quickly.",
+  "main": "vite.config.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/heavysudo/create-vrt.git"
+  },
+  "engines": {
+    "node": ">=14"
+  },
+  "keywords": [
+    "vite",
+    "react",
+    "tailwindcss"
+  ],
+  "author": "heavysudo",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/heavysudo/create-vrt/issues"
+  },
+  "homepage": "https://github.com/heavysudo/create-vrt#readme"
+}
