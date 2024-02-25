@@ -100,7 +100,7 @@ function App() {
           <div>
             Give me a follow on{' '}
             <a
-              href='https://twitter.com/Heavysomnia'
+              href='https://twitter.com/heavysudo'
               target='_blank'
               className='text-cyan-400 hover:text-cyan-300'
             >
