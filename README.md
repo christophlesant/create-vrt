@@ -1,3 +1,7 @@
+```
+NPM Package no longer available - Please do not try and install. Thank you for everyone who supported this project.
+```
+
 <hr>
 
 ## <div style="text-align: center; margin-bottom: 15px"><div>Quickly create a **React** Project</div> with _Tailwind_ already built in!</div>
